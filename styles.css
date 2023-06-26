@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+*{
+	background-color:#cccccc;
+}
+.player_one a{
+	background-color:white;
+}
+.player_two{
+	background-color:white;
+}
+a{
+	display:block;
+	color:blue;
+	text-decoration:none;
+}
+h1,h3{
+	text-align:center;
+}
+vedio{
+	max-width:max-content auto;
+	
+	box-sizing:border-box;
+}
